@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-recruitment/static/css/main.9ea7ecfb.css",
+    "main.js": "/ai-recruitment/static/js/main.482dc272.js",
+    "static/js/453.2ac5e56c.chunk.js": "/ai-recruitment/static/js/453.2ac5e56c.chunk.js",
+    "index.html": "/ai-recruitment/index.html",
+    "main.9ea7ecfb.css.map": "/ai-recruitment/static/css/main.9ea7ecfb.css.map",
+    "main.482dc272.js.map": "/ai-recruitment/static/js/main.482dc272.js.map",
+    "453.2ac5e56c.chunk.js.map": "/ai-recruitment/static/js/453.2ac5e56c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea7ecfb.css",
+    "static/js/main.482dc272.js"
+  ]
+}
